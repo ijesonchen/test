@@ -67,6 +67,5 @@ public class Buffer {
         b.delete();
         b.right(8);
         b.print();
-
     }
 }
