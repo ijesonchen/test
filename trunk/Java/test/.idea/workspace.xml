@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="20c7941e-0691-40b1-99bc-bf8f1baf6339" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/basic/basic/Run.java" afterPath="$PROJECT_DIR$/src/basic/basic/Run.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/basic/basic/Stack.java" afterPath="$PROJECT_DIR$/src/basic/basic/Stack.java" />
+    <list default="true" readonly="true" id="20c7941e-0691-40b1-99bc-bf8f1baf6339" name="Default" comment="test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
@@ -45,7 +43,7 @@
       <file leaf-file-name="ex_1_3_11.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/basic/basic/ex_1_3_11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1764706">
+            <state vertical-scroll-proportion="0.3529412">
               <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
               <folding />
             </state>
@@ -693,7 +691,7 @@
       <workItem from="1448202485328" duration="595000" />
       <workItem from="1448376465078" duration="48000" />
       <workItem from="1448376894093" duration="131000" />
-      <workItem from="1448806424625" duration="4841000" />
+      <workItem from="1448806424625" duration="4975000" />
     </task>
     <task id="LOCAL-00001">
       <created>1446995423156</created>
@@ -713,11 +711,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447256854875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1448814287671</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448814287671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32424000" />
+    <option name="totallyTimeSpent" value="32558000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -798,7 +802,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1216,7 +1221,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basic/basic/ex_1_3_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1764706">
+        <state vertical-scroll-proportion="0.3529412">
           <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
           <folding />
         </state>
