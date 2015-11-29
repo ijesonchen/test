@@ -10,7 +10,7 @@ import edu.princeton.cs.algs4.StdOut;
 public class Run {
     public static void main(String args[])
     {
-        Buffer.testcase();
+        EvaluateDeluxe.testcase();
         StdOut.println("exit");
     }
 }

@@ -38,6 +38,11 @@ public class Stack<Item>
         return item;
     }
 
+    public Item peek(){
+        Item item = first.data;
+        return item;
+    }
+
     public Stack(Stack<Item> s)
     {
         Node p = first;
