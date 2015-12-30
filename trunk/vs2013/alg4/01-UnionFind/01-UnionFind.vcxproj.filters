@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="UnionFind">
+      <UniqueIdentifier>{0311829d-5606-4268-812a-f1b2683538bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{3f381e2b-ec9e-4c18-be6c-0573b978c733}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QuickFind.h">
+      <Filter>UnionFind</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickUnion.h">
+      <Filter>UnionFind</Filter>
+    </ClInclude>
+    <ClInclude Include="WightedQuickFind.h">
+      <Filter>UnionFind</Filter>
+    </ClInclude>
+    <ClInclude Include="UF.h">
+      <Filter>UnionFind</Filter>
+    </ClInclude>
+    <ClInclude Include="01-UnionFind.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="QuickFind.cpp">
+      <Filter>UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickUnion.cpp">
+      <Filter>UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="WightedQuickFind.cpp">
+      <Filter>UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="01-UnionFind.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="01-UnionFind.rc">
+      <Filter>main</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
