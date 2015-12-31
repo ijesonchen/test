@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-UnionFind", "01-UnionFind.vcxproj", "{FCCE9F6A-91BD-4FCF-8D36-83CEE8F08484}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnionFind", "UnionFind\UnionFind.vcxproj", "{FCCE9F6A-91BD-4FCF-8D36-83CEE8F08484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

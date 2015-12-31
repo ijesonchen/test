@@ -2,10 +2,9 @@
 //
 
 #include "stdafx.h"
-#include "01-UnionFind.h"
 #include "UnionFind.h"
+#include "QuickFind.h"
 
-#include <array>
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
@@ -46,8 +45,7 @@ int _tmain(int argc, TCHAR* argv[], TCHAR* envp[])
 	}
 
 	int n = 10;
-
-	UnionFind uf(n);
+	QuickFind qf(n);
 
 	return nRetCode;
 }
